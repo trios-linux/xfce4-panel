@@ -1,3 +1,10 @@
+xfce4-panel (4.12.0-trios3) mia; urgency=low
+
+  * Added missing libgtk3-dev build-dep.
+  * Bump standards to 3.9.6
+
+ -- Filip Danilovic <filip@openmailbox.org>  Tue, 04 Apr 2015 01:53:56 +0100
+
 xfce4-panel (4.12.0-trios2) mia; urgency=low
 
   * Build with gtk3 support.
